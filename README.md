@@ -1,4 +1,4 @@
-![logo](https://github.com/Markg747/Mark-Kamau/blob/main/github-header-image.png)
+![logo](https://github.com/Markg747/Markg747/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Mark Kamau</h1>
 <h3 align="center">A passionate Data Analyst from Canada</h3>
 
